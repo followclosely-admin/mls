@@ -23,6 +23,15 @@ export default {
     gulp: 'gulp/**/*.js'
   },
 
+  html: {
+    src: 'app/index.html',
+    dest: 'build/',
+    viewsSrc: 'app/views/**/*.html',
+    viewsDest: 'build/views/'
+    // src: 'app/views/**/*.html',
+    // dest: 'build/views/'
+  },
+
   images: {
     src: 'app/assets/images/**/*',
     dest: 'build/assets/images'
@@ -49,8 +58,8 @@ export default {
 
   views: {
     index: 'app/index.html',
-    src: 'app/assets/views/**/*.html',
-    dest: 'app/assets/js'
+    src: 'app/views/**/*.html',
+    dest: 'build/views/'
   },
 
   gzip: {
