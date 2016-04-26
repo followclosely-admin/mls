@@ -1,0 +1,832 @@
+// ====================================== //
+// =============== _FONTS =============== //
+// ====================================== //
+// ====================================== //
+// === TOC: ============================= //
+// ===== 01. FONT-AWESOME =============== //
+// ===== 02. GRAND-HOTEL ================ //
+// ===== 03. GOTHAM ===================== //
+// ===== 04. SENTINEL =================== //
+// ===== 05. TUNGSTEN =================== //
+// ===== 06. ARCHER ===================== //
+// ===== 07. BRANDON-GROTESQUE ========== //
+// ===== 08. OPEN-SANS ================== //
+// ===== 09. AVENIR ===================== //
+// ====================================== //
+// ====================================== //
+
+
+/************************************/
+/*********** FONT-AWESOME ***********/
+/************************************/
+/*** FontAwesome ********************/
+/************************************/
+/************************************/
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('../fonts/font-awesome/fontawesome-webfont.eot?v=4.5.0');
+  src: url('../fonts/font-awesome/fontawesome-webfont.eot?#iefix&v=4.5.0') format('embedded-opentype'), url('../fonts/font-awesome/fontawesome-webfont.woff2?v=4.5.0') format('woff2'), url('../fonts/font-awesome/fontawesome-webfont.woff?v=4.5.0') format('woff'), url('../fonts/font-awesome/fontawesome-webfont.ttf?v=4.5.0') format('truetype'), url('../fonts/font-awesome/fontawesome-webfont.svg?v=4.5.0#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/**************************************/
+/******** GRAND-HOTEL *****************/
+/**************************************/
+/*** GrandHotel-Regular ***************/
+/**************************************/
+/**************************************/
+
+@font-face {
+	font-family: 'GrandHotel-Regular';
+	src: url('../fonts/grand-hotel/GrandHotel-Regular.eot');
+	src: local('☺'), url('../fonts/grand-hotel/GrandHotel-Regular.woff') format('woff'), url('../fonts/grand-hotel/GrandHotel-Regular.ttf') format('truetype'), url('../fonts/grand-hotel/GrandHotel-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+/********************************/
+/******** GOTHAM ****************/
+/********************************/
+/*** Gotham-Thin ****************/
+/*** Gotham-ThinItalic **********/
+/*** Gotham-ExtraLight **********/
+/*** Gotham-ExtraLightItalic ****/
+/*** Gotham-Light ***************/
+/*** Gotham-LightItalic *********/
+/*** Gotham-Book ****************/
+/*** Gotham-BookItalic **********/
+/*** Gotham-Medium **************/
+/*** Gotham-MediumItalic ********/
+/*** Gotham-Bold ****************/
+/*** Gotham-BoldItalic **********/
+/*** Gotham-Black ***************/
+/*** Gotham-BlackItalic *********/
+/*** Gotham-Ultra ***************/
+/*** Gotham-UltraItalic *********/
+/********************************/
+/********************************/
+
+@font-face {
+	font-family: 'Gotham-Thin';
+	src: url('fonts/Gotham-Thin.eot');
+	src: local('☺'), url('fonts/Gotham-Thin.woff') format('woff'), url('fonts/Gotham-Thin.ttf') format('truetype'), url('fonts/Gotham-Thin.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-ThinItalic';
+	src: url('fonts/Gotham-ThinIta.eot');
+	src: local('☺'), url('fonts/Gotham-ThinIta.woff') format('woff'), url('fonts/Gotham-ThinIta.ttf') format('truetype'), url('fonts/Gotham-ThinIta.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-ExtraLight';
+	src: url('fonts/Gotham-XLight.eot');
+	src: local('☺'), url('fonts/Gotham-XLight.woff') format('woff'), url('fonts/Gotham-XLight.ttf') format('truetype'), url('fonts/Gotham-XLight.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-ExtraLightItalic';
+	src: url('fonts/Gotham-XLightIta.eot');
+	src: local('☺'), url('fonts/Gotham-XLightIta.woff') format('woff'), url('fonts/Gotham-XLightIta.ttf') format('truetype'), url('fonts/Gotham-XLightIta.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-Light';
+	src: url('fonts/Gotham-Light.eot');
+	src: local('☺'), url('fonts/Gotham-Light.woff') format('woff'), url('fonts/Gotham-Light.ttf') format('truetype'), url('fonts/Gotham-Light.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-LightItalic';
+	src: url('fonts/Gotham-LightIta.eot');
+	src: local('☺'), url('fonts/Gotham-LightIta.woff') format('woff'), url('fonts/Gotham-LightIta.ttf') format('truetype'), url('fonts/Gotham-LightIta.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-Book';
+	src: url('fonts/Gotham-Book.eot');
+	src: local('☺'), url('fonts/Gotham-Book.woff') format('woff'), url('fonts/Gotham-Book.ttf') format('truetype'), url('fonts/Gotham-Book.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-BookItalic';
+	src: url('fonts/Gotham-BookIta.eot');
+	src: local('☺'), url('fonts/Gotham-BookIta.woff') format('woff'), url('fonts/Gotham-BookIta.ttf') format('truetype'), url('fonts/Gotham-BookIta.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-Medium';
+	src: url('fonts/Gotham-Medium.eot');
+	src: local('☺'), url('fonts/Gotham-Medium.woff') format('woff'), url('fonts/Gotham-Medium.ttf') format('truetype'), url('fonts/Gotham-Medium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-MediumItalic';
+	src: url('fonts/Gotham-MediumIta.eot');
+	src: local('☺'), url('fonts/Gotham-MediumIta.woff') format('woff'), url('fonts/Gotham-MediumIta.ttf') format('truetype'), url('fonts/Gotham-MediumIta.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-Bold';
+	src: url('fonts/Gotham-Bold.eot');
+	src: local('☺'), url('fonts/Gotham-Bold.woff') format('woff'), url('fonts/Gotham-Bold.ttf') format('truetype'), url('fonts/Gotham-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-BoldItalic';
+	src: url('fonts/Gotham-BoldIta.eot');
+	src: local('☺'), url('fonts/Gotham-BoldIta.woff') format('woff'), url('fonts/Gotham-BoldIta.ttf') format('truetype'), url('fonts/Gotham-BoldIta.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-Black';
+	src: url('fonts/Gotham-Black.eot');
+	src: local('☺'), url('fonts/Gotham-Black.woff') format('woff'), url('fonts/Gotham-Black.ttf') format('truetype'), url('fonts/Gotham-Black.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-BlackItalic';
+	src: url('fonts/Gotham-BlackIta.eot');
+	src: local('☺'), url('fonts/Gotham-BlackIta.woff') format('woff'), url('fonts/Gotham-BlackIta.ttf') format('truetype'), url('fonts/Gotham-BlackIta.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-Ultra';
+	src: url('fonts/Gotham-Ultra.eot');
+	src: local('☺'), url('fonts/Gotham-Ultra.woff') format('woff'), url('fonts/Gotham-Ultra.ttf') format('truetype'), url('fonts/Gotham-Ultra.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham-UltraItalic';
+	src: url('fonts/Gotham-UltraIta.eot');
+	src: local('☺'), url('fonts/Gotham-UltraIta.woff') format('woff'), url('fonts/Gotham-UltraIta.ttf') format('truetype'), url('fonts/Gotham-UltraIta.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+/********************************/
+/*********** SENTINEL ***********/
+/********************************/
+/*** Sentinel-Light *************/
+/*** Sentinel-LightItalic *******/
+/*** Sentinel-Book **************/
+/*** Sentinel-BookItalic ********/
+/*** Sentinel-Medium ************/
+/*** Sentinel-MediumItalic ******/
+/*** Sentinel-Semibold **********/
+/*** Sentinel-SemiboldItalic ****/
+/*** Sentinel-Bold **************/
+/*** Sentinel-BoldItalic ********/
+/*** Sentinel-Black *************/
+/*** Sentinel-BlackItalic *******/
+/********************************/
+/********************************/
+
+@font-face {
+	font-family: 'Sentinel-Light';
+	src: url('../fonts/Sentinel-Light.eot');
+	src: local('☺'), url('../fonts/Sentinel-Light.woff') format('woff'), url('../fonts/Sentinel-Light.ttf') format('truetype'), url('../fonts/Sentinel-Light.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Sentinel-LightItalic';
+	src: url('../fonts/Sentinel-LightItalic.eot');
+	src: local('☺'), url('../fonts/Sentinel-LightItalic.woff') format('woff'), url('../fonts/Sentinel-LightItalic.ttf') format('truetype'), url('../fonts/Sentinel-LightItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Sentinel-Book';
+	src: url('../fonts/Sentinel-Book.eot');
+	src: local('☺'), url('../fonts/Sentinel-Book.woff') format('woff'), url('../fonts/Sentinel-Book.ttf') format('truetype'), url('../fonts/Sentinel-Book.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Sentinel-BookItalic';
+	src: url('../fonts/Sentinel-BookItalic.eot');
+	src: local('☺'), url('../fonts/Sentinel-BookItalic.woff') format('woff'), url('../fonts/Sentinel-BookItalic.ttf') format('truetype'), url('../fonts/Sentinel-BookItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Sentinel-Medium';
+	src: url('../fonts/Sentinel-Medium.eot');
+	src: local('☺'), url('../fonts/Sentinel-Medium.woff') format('woff'), url('../fonts/Sentinel-Medium.ttf') format('truetype'), url('../fonts/Sentinel-Medium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Sentinel-MediumItalic';
+	src: url('../fonts/Sentinel-MediumItalic.eot');
+	src: local('☺'), url('../fonts/Sentinel-MediumItalic.woff') format('woff'), url('../fonts/Sentinel-MediumItalic.ttf') format('truetype'), url('../fonts/Sentinel-MediumItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Sentinel-Semibold';
+	src: url('../fonts/Sentinel-Semibold.eot');
+	src: local('☺'), url('../fonts/Sentinel-Semibold.woff') format('woff'), url('../fonts/Sentinel-Semibold.ttf') format('truetype'), url('../fonts/Sentinel-Semibold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Sentinel-SemiboldItalic';
+	src: url('../fonts/Sentinel-SemiboldItalic.eot');
+	src: local('☺'), url('../fonts/Sentinel-SemiboldItalic.woff') format('woff'), url('../fonts/Sentinel-SemiboldItalic.ttf') format('truetype'), url('../fonts/Sentinel-SemiboldItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Sentinel-Bold';
+	src: url('../fonts/Sentinel-Bold.eot');
+	src: local('☺'), url('../fonts/Sentinel-Bold.woff') format('woff'), url('../fonts/Sentinel-Bold.ttf') format('truetype'), url('../fonts/Sentinel-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Sentinel-BoldItalic';
+	src: url('../fonts/Sentinel-BoldItalic.eot');
+	src: local('☺'), url('../fonts/Sentinel-BoldItalic.woff') format('woff'), url('../fonts/Sentinel-BoldItalic.ttf') format('truetype'), url('../fonts/Sentinel-BoldItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Sentinel-Black';
+	src: url('../fonts/Sentinel-Black.eot');
+	src: local('☺'), url('../fonts/Sentinel-Black.woff') format('woff'), url('../fonts/Sentinel-Black.ttf') format('truetype'), url('../fonts/Sentinel-Black.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Sentinel-BlackItalic';
+	src: url('../fonts/Sentinel-BlackItalic.eot');
+	src: local('☺'), url('../fonts/Sentinel-BlackItalic.woff') format('woff'), url('../fonts/Sentinel-BlackItalic.ttf') format('truetype'), url('../fonts/Sentinel-BlackItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+/********************************/
+/*********** Tungsten ***********/
+/********************************/
+/*** Tungsten-Medium ************/
+/*** Tungsten-Semibold **********/
+/*** Tungsten-Bold **************/
+/*** Tungsten-Black *************/
+/********************************/
+/********************************/
+
+@font-face {
+	font-family: 'Tungsten-Medium';
+	src: url('fonts/Tungsten-Medium.eot');
+	src: local('☺'), url('fonts/Tungsten-Medium.woff') format('woff'), url('fonts/Tungsten-Medium.ttf') format('truetype'), url('fonts/Tungsten-Medium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Tungsten-Semibold';
+	src: url('fonts/Tungsten-Semibold.eot');
+	src: local('☺'), url('fonts/Tungsten-Semibold.woff') format('woff'), url('fonts/Tungsten-Semibold.ttf') format('truetype'), url('fonts/Tungsten-Semibold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Tungsten-Bold';
+	src: url('fonts/Tungsten-Bold.eot');
+	src: local('☺'), url('fonts/Tungsten-Bold.woff') format('woff'), url('fonts/Tungsten-Bold.ttf') format('truetype'), url('fonts/Tungsten-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Tungsten-Black';
+	src: url('fonts/Tungsten-Black.eot');
+	src: local('☺'), url('fonts/Tungsten-Black.woff') format('woff'), url('fonts/Tungsten-Black.ttf') format('truetype'), url('fonts/Tungsten-Black.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+/*******************************/
+/******** ARCHER ***************/
+/*******************************/
+/*** Archer-Hairline ***********/
+/*** Archer-HairlineItalic *****/
+/*** Archer-Thin ***************/
+/*** Archer-ThinItalic *********/
+/*** Archer-ExtraLight *********/
+/*** Archer-ExtraLightItalic ***/
+/*** Archer-Light **************/
+/*** Archer-LightItalic ********/
+/*** Archer-Book ***************/
+/*** Archer-BookItalic *********/
+/*** Archer-Medium *************/
+/*** Archer-MediumItalic *******/
+/*** Archer-Semibold ***********/
+/*** Archer-SemiboldItalic *****/
+/*** Archer-Bold ***************/
+/*** Archer-BoldItalic *********/
+/*******************************/
+/*******************************/
+
+@font-face {
+	font-family: 'Archer-Hairline';
+	src: url('fonts/Archer-Hairline.eot');
+	src: local('☺'), url('fonts/Archer-Hairline.woff') format('woff'), url('fonts/Archer-Hairline.ttf') format('truetype'), url('fonts/Archer-Hairline.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Archer-HairlineItalic';
+	src: url('fonts/Archer-HairlineItalic.eot');
+	src: local('☺'), url('fonts/Archer-HairlineItalic.woff') format('woff'), url('fonts/Archer-HairlineItalic.ttf') format('truetype'), url('fonts/Archer-HairlineItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Archer-Thin';
+	src: url('fonts/Archer-Thin.eot');
+	src: local('☺'), url('fonts/Archer-Thin.woff') format('woff'), url('fonts/Archer-Thin.ttf') format('truetype'), url('fonts/Archer-Thin.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Archer-ThinItalic';
+	src: url('fonts/Archer-ThinItalic.eot');
+	src: local('☺'), url('fonts/Archer-ThinItalic.woff') format('woff'), url('fonts/Archer-ThinItalic.ttf') format('truetype'), url('fonts/Archer-ThinItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Archer-ExtraLight';
+	src: url('fonts/Archer-ExtraLight.eot');
+	src: local('☺'), url('fonts/Archer-ExtraLight.woff') format('woff'), url('fonts/Archer-ExtraLight.ttf') format('truetype'), url('fonts/Archer-ExtraLight.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Archer-ExtraLightItalic';
+	src: url('fonts/Archer-ExtraLightItalic.eot');
+	src: local('☺'), url('fonts/Archer-ExtraLightItalic.woff') format('woff'), url('fonts/Archer-ExtraLightItalic.ttf') format('truetype'), url('fonts/Archer-ExtraLightItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Archer-Light';
+	src: url('fonts/Archer-Light.eot');
+	src: local('☺'), url('fonts/Archer-Light.woff') format('woff'), url('fonts/Archer-Light.ttf') format('truetype'), url('fonts/Archer-Light.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Archer-LightItalic';
+	src: url('fonts/Archer-LightItalic.eot');
+	src: local('☺'), url('fonts/Archer-LightItalic.woff') format('woff'), url('fonts/Archer-LightItalic.ttf') format('truetype'), url('fonts/Archer-LightItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Archer-Book';
+	src: url('fonts/Archer-Book.eot');
+	src: local('☺'), url('fonts/Archer-Book.woff') format('woff'), url('fonts/Archer-Book.ttf') format('truetype'), url('fonts/Archer-Book.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Archer-BookItalic';
+	src: url('fonts/Archer-BookItalic.eot');
+	src: local('☺'), url('fonts/Archer-BookItalic.woff') format('woff'), url('fonts/Archer-BookItalic.ttf') format('truetype'), url('fonts/Archer-BookItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Archer-Medium';
+	src: url('fonts/Archer-Medium.eot');
+	src: local('☺'), url('fonts/Archer-Medium.woff') format('woff'), url('fonts/Archer-Medium.ttf') format('truetype'), url('fonts/Archer-Medium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Archer-MediumItalic';
+	src: url('fonts/Archer-MediumItalic.eot');
+	src: local('☺'), url('fonts/Archer-MediumItalic.woff') format('woff'), url('fonts/Archer-MediumItalic.ttf') format('truetype'), url('fonts/Archer-MediumItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Archer-Semibold';
+	src: url('fonts/Archer-Semibold.eot');
+	src: local('☺'), url('fonts/Archer-Semibold.woff') format('woff'), url('fonts/Archer-Semibold.ttf') format('truetype'), url('fonts/Archer-Semibold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Archer-SemiboldItalic';
+	src: url('fonts/Archer-SemiboldItalic.eot');
+	src: local('☺'), url('fonts/Archer-SemiboldItalic.woff') format('woff'), url('fonts/Archer-SemiboldItalic.ttf') format('truetype'), url('fonts/Archer-SemiboldItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Archer-Bold';
+	src: url('fonts/Archer-Bold.eot');
+	src: local('☺'), url('fonts/Archer-Bold.woff') format('woff'), url('fonts/Archer-Bold.ttf') format('truetype'), url('fonts/Archer-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Archer-BoldItalic';
+	src: url('fonts/Archer-BoldItalic.eot');
+	src: local('☺'), url('fonts/Archer-BoldItalic.woff') format('woff'), url('fonts/Archer-BoldItalic.ttf') format('truetype'), url('fonts/Archer-BoldItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+/********************************************/
+/******** BRANDON-GROTESQUE *****************/
+/********************************************/
+/*** Brandon-Thin ***************************/
+/*** Brandon-ThinItalic *********************/
+/*** Brandon-Light **************************/
+/*** Brandon-LightItalic ********************/
+/*** Brandon-Book ***************************/
+/*** Brandon-BookItalic *********************/
+/*** Brandon-Medium *************************/
+/*** Brandon-MediumItalic *******************/
+/*** Brandon-Bold ***************************/
+/*** Brandon-BoldItalic *********************/
+/*** Brandon-Black **************************/
+/*** Brandon-BlackItalic ********************/
+/********************************************/
+/********************************************/
+
+@font-face {
+	font-family: 'Brandon-Thin';
+	src: url('../fonts/brandon-grotesque/Brandon_thin.eot');
+	src: local('☺'), url('../fonts/brandon-grotesque/Brandon_thin.woff') format('woff'), url('../fonts/brandon-grotesque/Brandon_thin.ttf') format('truetype'), url('../fonts/brandon-grotesque/Brandon_thin.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Brandon-ThinItalic';
+	src: url('../fonts/brandon-grotesque/Brandon_thin_it.eot');
+	src: local('☺'), url('../fonts/brandon-grotesque/Brandon_thin_it.woff') format('woff'), url('../fonts/brandon-grotesque/Brandon_thin_it.ttf') format('truetype'), url('../fonts/brandon-grotesque/Brandon_thin_it.svg') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Brandon-Light';
+	src: url('../fonts/brandon-grotesque/Brandon_light.eot');
+	src: local('☺'), url('../fonts/brandon-grotesque/Brandon_light.woff') format('woff'), url('../fonts/brandon-grotesque/Brandon_light.ttf') format('truetype'), url('../fonts/brandon-grotesque/Brandon_light.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Brandon-LightItalic';
+	src: url('../fonts/brandon-grotesque/Brandon_light_it.eot');
+	src: local('☺'), url('../fonts/brandon-grotesque/Brandon_light_it.woff') format('woff'), url('../fonts/brandon-grotesque/Brandon_light_it.ttf') format('truetype'), url('../fonts/brandon-grotesque/Brandon_light_it.svg') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Brandon-Book';
+	src: url('../fonts/brandon-grotesque/Brandon_reg.eot');
+	src: local('☺'), url('../fonts/brandon-grotesque/Brandon_reg.woff') format('woff'), url('../fonts/brandon-grotesque/Brandon_reg.ttf') format('truetype'), url('../fonts/brandon-grotesque/Brandon_reg.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Brandon-BookItalic';
+	src: url('../fonts/brandon-grotesque/Brandon_reg_it.eot');
+	src: local('☺'), url('../fonts/brandon-grotesque/Brandon_reg_it.woff') format('woff'), url('../fonts/brandon-grotesque/Brandon_reg_it.ttf') format('truetype'), url('../fonts/brandon-grotesque/Brandon_reg_it.svg') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Brandon-Medium';
+	src: url('../fonts/brandon-grotesque/Brandon_med.eot');
+	src: local('☺'), url('../fonts/brandon-grotesque/Brandon_med.woff') format('woff'), url('../fonts/brandon-grotesque/Brandon_med.ttf') format('truetype'), url('../fonts/brandon-grotesque/Brandon_med.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Brandon-MediumItalic';
+	src: url('fonts/Brandon_med_it.eot');
+	src: local('☺'), url('fonts/Brandon_med_it.woff') format('woff'), url('fonts/Brandon_med_it.ttf') format('truetype'), url('fonts/Brandon_med_it.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Brandon-Bold';
+	src: url('../fonts/brandon-grotesque/Brandon_bld.eot');
+	src: local('☺'), url('../fonts/brandon-grotesque/Brandon_bld.woff') format('woff'), url('../fonts/brandon-grotesque/Brandon_bld.ttf') format('truetype'), url('../fonts/brandon-grotesque/Brandon_bld.svg') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Brandon-BoldItalic';
+	src: url('../fonts/brandon-grotesque/Brandon_bld_it.eot');
+	src: local('☺'), url('../fonts/brandon-grotesque/Brandon_bld_it.woff') format('woff'), url('../fonts/brandon-grotesque/Brandon_bld_it.ttf') format('truetype'), url('../fonts/brandon-grotesque/Brandon_bld_it.svg') format('svg');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Brandon-Black';
+	src: url('../fonts/brandon-grotesque/Brandon_blk.eot');
+	src: local('☺'), url('../fonts/brandon-grotesque/Brandon_blk.woff') format('woff'), url('../fonts/brandon-grotesque/Brandon_blk.ttf') format('truetype'), url('../fonts/brandon-grotesque/Brandon_blk.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Brandon-BlackItalic';
+	src: url('../fonts/brandon-grotesque/Brandon_blk_it.eot');
+	src: local('☺'), url('../fonts/brandon-grotesque/Brandon_blk_it.woff') format('woff'), url('../fonts/brandon-grotesque/Brandon_blk_it.ttf') format('truetype'), url('../fonts/brandon-grotesque/Brandon_blk_it.svg') format('svg');
+	font-weight: normal;
+	font-style: italic;
+}
+
+
+/*******************************/
+/******** OPEN-SANS ************/
+/*******************************/
+/*** OpenSans-Light ************/
+/*** OpenSans-LightItalic ******/
+/*** OpenSans-Book *************/
+/*** OpenSans-BookItalic *******/
+/*** OpenSans-Semibold *********/
+/*** OpenSans-SemiboldItalic ***/
+/*** OpenSans-Bold *************/
+/*** OpenSans-BoldItalic *******/
+/*** OpenSans-Black ************/
+/*** OpenSans-BlackItalic ******/
+/*******************************/
+/*******************************/
+
+@font-face {
+  font-family: 'OpenSans-Light';
+  src: url("../fonts/open-sans/OpenSans-Light.eot");
+  src: url("../fonts/open-sans/OpenSans-Light.eot") format("embedded-opentype"), url("../fonts/open-sans/OpenSans-Light.woff2") format("woff2"), url("../fonts/open-sans/OpenSans-Light.woff") format("woff"), url("../fonts/open-sans/OpenSans-Light.ttf") format("truetype"), url("../fonts/open-sans/OpenSans-Light.svg") format("svg");
+  font-weight: 300;
+  font-style: normal; 
+}
+
+@font-face {
+  font-family: 'OpenSans-LightItalic';
+  src: url("../fonts/open-sans/OpenSans-LightItalic.eot");
+  src: url("../fonts/open-sans/OpenSans-LightItalic.eot") format("embedded-opentype"), url("../fonts/open-sans/OpenSans-LightItalic.woff2") format("woff2"), url("../fonts/open-sans/OpenSans-LightItalic.woff") format("woff"), url("../fonts/open-sans/OpenSans-LightItalic.ttf") format("truetype"), url("../fonts/open-sans/OpenSans-LightItalic.svg") format("svg");
+  font-weight: 300;
+  font-style: italic; 
+}
+
+@font-face {
+  font-family: 'OpenSans-Book';
+  src: url("../fonts/open-sans/OpenSans-Regular.eot");
+  src: url("../fonts/open-sans/OpenSans-Regular.eot") format("embedded-opentype"), url("../fonts/open-sans/OpenSans-Regular.woff2") format("woff2"), url("../fonts/open-sans/OpenSans-Regular.woff") format("woff"), url("../fonts/open-sans/OpenSans-Regular.ttf") format("truetype"), url("../fonts/open-sans/OpenSans-Regular.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; 
+}
+
+@font-face {
+  font-family: 'OpenSans-BookItalic';
+  src: url("../fonts/open-sans/OpenSans-Italic.eot");
+  src: url("../fonts/open-sans/OpenSans-Italic.eot") format("embedded-opentype"), url("../fonts/open-sans/OpenSans-Italic.woff2") format("woff2"), url("../fonts/open-sans/OpenSans-Italic.woff") format("woff"), url("../fonts/open-sans/OpenSans-Italic.ttf") format("truetype"), url("../fonts/open-sans/OpenSans-Italic.svg") format("svg");
+  font-weight: normal;
+  font-style: italic; 
+}
+
+@font-face {
+  font-family: 'OpenSans-Semibold';
+  src: url("../fonts/open-sans/OpenSans-Semibold.eot");
+  src: url("../fonts/open-sans/OpenSans-Semibold.eot") format("embedded-opentype"), url("../fonts/open-sans/OpenSans-Semibold.woff2") format("woff2"), url("../fonts/open-sans/OpenSans-Semibold.woff") format("woff"), url("../fonts/open-sans/OpenSans-Semibold.ttf") format("truetype"), url("../fonts/open-sans/OpenSans-Semibold.svg") format("svg");
+  font-weight: 600;
+  font-style: normal; 
+}
+
+@font-face {
+  font-family: 'OpenSans-SemiboldItalic';
+  src: url("../fonts/open-sans/OpenSans-SemiboldItalic.eot");
+  src: url("../fonts/open-sans/OpenSans-SemiboldItalic.eot") format("embedded-opentype"), url("../fonts/open-sans/OpenSans-SemiboldItalic.woff2") format("woff2"), url("../fonts/open-sans/OpenSans-SemiboldItalic.woff") format("woff"), url("../fonts/open-sans/OpenSans-SemiboldItalic.ttf") format("truetype"), url("../fonts/open-sans/OpenSans-SemiboldItalic.svg") format("svg");
+  font-weight: 600;
+  font-style: italic; 
+}
+
+@font-face {
+  font-family: 'OpenSans-Bold';
+  src: url("../fonts/open-sans/OpenSans-Bold.eot");
+  src: url("../fonts/open-sans/OpenSans-Bold.eot") format("embedded-opentype"), url("../fonts/open-sans/OpenSans-Bold.woff2") format("woff2"), url("../fonts/open-sans/OpenSans-Bold.woff") format("woff"), url("../fonts/open-sans/OpenSans-Bold.ttf") format("truetype"), url("../fonts/open-sans/OpenSans-Bold.svg") format("svg");
+  font-weight: bold;
+  font-style: normal; 
+}
+
+@font-face {
+  font-family: 'OpenSans-BoldItalic';
+  src: url("../fonts/open-sans/OpenSans-BoldItalic.eot");
+  src: url("../fonts/open-sans/OpenSans-BoldItalic.eot") format("embedded-opentype"), url("../fonts/open-sans/OpenSans-BoldItalic.woff2") format("woff2"), url("../fonts/open-sans/OpenSans-BoldItalic.woff") format("woff"), url("../fonts/open-sans/OpenSans-BoldItalic.ttf") format("truetype"), url("../fonts/open-sans/OpenSans-BoldItalic.svg") format("svg");
+  font-weight: bold;
+  font-style: italic; 
+}
+
+@font-face {
+  font-family: 'OpenSans-Black';
+  src: url("../fonts/open-sans/OpenSans-ExtraBold.eot");
+  src: url("../fonts/open-sans/OpenSans-ExtraBold.eot") format("embedded-opentype"), url("../fonts/open-sans/OpenSans-ExtraBold.woff2") format("woff2"), url("../fonts/open-sans/OpenSans-ExtraBold.woff") format("woff"), url("../fonts/open-sans/OpenSans-ExtraBold.ttf") format("truetype"), url("../fonts/open-sans/OpenSans-ExtraBold.svg") format("svg");
+  font-weight: 800;
+  font-style: normal; 
+}
+
+@font-face {
+  font-family: 'OpenSans-BlackItalic';
+  src: url("../fonts/open-sans/OpenSans-ExtraBoldItalic.eot");
+  src: url("../fonts/open-sans/OpenSans-ExtraBoldItalic.eot") format("embedded-opentype"), url("../fonts/open-sans/OpenSans-ExtraBoldItalic.woff2") format("woff2"), url("../fonts/open-sans/OpenSans-ExtraBoldItalic.woff") format("woff"), url("../fonts/open-sans/OpenSans-ExtraBoldItalic.ttf") format("truetype"), url("../fonts/open-sans/OpenSans-ExtraBoldItalic.svg") format("svg");
+  font-weight: 800;
+  font-style: italic; 
+}
+
+
+/*********************************/
+/******** AVENIR *****************/
+/*********************************/
+/*** Avenir-Light ****************/
+/*** Avenir-LightItalic **********/
+/*** Avenir-Book *****************/
+/*** Avenir-BookItalic ***********/
+/*** Avenir-Roman ****************/
+/*** Avenir-RomanItalic **********/
+/*** Avenir-Medium ***************/
+/*** Avenir-MediumItalic *********/
+/*** Avenir-Heavy ****************/
+/*** Avenir-HeavyItalic **********/
+/*** Avenir-Black ****************/
+/*** Avenir-BlackItalic **********/
+/*********************************/
+/*********************************/
+
+@font-face {
+	font-family: 'Avenir-Light';
+	src: url('../fonts/avenir/Avenir-Light.eot');
+	src: local('☺'), url('../fonts/avenir/Avenir-Light.woff') format('woff'), url('../fonts/avenir/Avenir-Light.ttf') format('truetype'), url('../fonts/avenir/Avenir-Light.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir-LightItalic';
+	src: url('../fonts/avenir/Avenir-LightOblique.eot');
+	src: local('☺'), url('../fonts/avenir/Avenir-LightOblique.woff') format('woff'), url('../fonts/avenir/Avenir-LightOblique.ttf') format('truetype'), url('../fonts/avenir/Avenir-LightOblique.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir-Book';
+	src: url('../fonts/avenir/Avenir-Book.eot');
+	src: local('☺'), url('../fonts/avenir/Avenir-Book.woff') format('woff'), url('../fonts/avenir/Avenir-Book.ttf') format('truetype'), url('../fonts/avenir/Avenir-Book.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir-BookItalic';
+	src: url('../fonts/avenir/Avenir-BookOblique.eot');
+	src: local('☺'), url('../fonts/avenir/Avenir-BookOblique.woff') format('woff'), url('../fonts/avenir/Avenir-BookOblique.ttf') format('truetype'), url('../fonts/avenir/Avenir-BookOblique.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir-Roman';
+	src: url('../fonts/avenir/Avenir-Roman.eot');
+	src: local('☺'), url('../fonts/avenir/Avenir-Roman.woff') format('woff'), url('../fonts/avenir/Avenir-Roman.ttf') format('truetype'), url('../fonts/avenir/Avenir-Roman.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir-RomanItalic';
+	src: url('../fonts/avenir/Avenir-Oblique.eot');
+	src: local('☺'), url('../fonts/avenir/Avenir-Oblique.woff') format('woff'), url('../fonts/avenir/Avenir-Oblique.ttf') format('truetype'), url('../fonts/avenir/Avenir-Oblique.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir-Medium';
+	src: url('../fonts/avenir/Avenir-Medium.eot');
+	src: local('☺'), url('../fonts/avenir/Avenir-Medium.woff') format('woff'), url('../fonts/avenir/Avenir-Medium.ttf') format('truetype'), url('../fonts/avenir/Avenir-Medium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir-MediumItalic';
+	src: url('../fonts/avenir/Avenir-MediumOblique.eot');
+	src: local('☺'), url('../fonts/avenir/Avenir-MediumOblique.woff') format('woff'), url('../fonts/avenir/Avenir-MediumOblique.ttf') format('truetype'), url('../fonts/avenir/Avenir-MediumOblique.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir-Heavy';
+	src: url('../fonts/avenir/Avenir-Heavy.eot');
+	src: local('☺'), url('../fonts/avenir/Avenir-Heavy.woff') format('woff'), url('../fonts/avenir/Avenir-Heavy.ttf') format('truetype'), url('../fonts/avenir/Avenir-Heavy.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir-HeavyItalic';
+	src: url('../fonts/avenir/Avenir-HeavyOblique.eot');
+	src: local('☺'), url('../fonts/avenir/Avenir-HeavyOblique.woff') format('woff'), url('../fonts/avenir/Avenir-HeavyOblique.ttf') format('truetype'), url('../fonts/avenir/Avenir-HeavyOblique.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir-Black';
+	src: url('../fonts/avenir/Avenir-Black.eot');
+	src: local('☺'), url('../fonts/avenir/Avenir-Black.woff') format('woff'), url('../fonts/avenir/Avenir-Black.ttf') format('truetype'), url('../fonts/avenir/Avenir-Black.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Avenir-BlackItalic';
+	src: url('../fonts/avenir/Avenir-BlackOblique.eot');
+	src: local('☺'), url('../fonts/avenir/Avenir-BlackOblique.woff') format('woff'), url('../fonts/avenir/Avenir-BlackOblique.ttf') format('truetype'), url('../fonts/avenir/Avenir-BlackOblique.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

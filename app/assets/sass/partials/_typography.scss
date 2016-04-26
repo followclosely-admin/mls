@@ -1,0 +1,38 @@
+h1, h2 {
+  font-family: $display;
+  &.em {
+    font-family: $displayItal;
+  }
+  &.strong {
+    font-family: $displayBold;
+  }
+  & strong em, & em strong {
+    font-family: $displayBoldItal;
+  }
+}
+
+h3, h4, h5, h6 {
+  font-family: $serif;
+  &em {
+    font-family: $serifItal;
+  }
+  &strong {
+    font-family: $serifBold;
+  }
+  & strong em, & em strong {
+    font-family: $serifBoldItal;
+  }
+}
+
+p {
+  font-family: $sans;
+  & em {
+    font-family: $sansItal;
+  }
+  & strong {
+    font-family: $sansBold;
+  }
+  & strong em, & em strong {
+    font-family: $sansBoldItal;
+  }
+}
