@@ -5,7 +5,6 @@ export default {
   browserPort: 3000,
   UIPort: 3001,
   testPort: 3002,
-
   sourceDir: './app/',
   buildDir: './build/',
 
@@ -28,7 +27,7 @@ export default {
     dest: 'build/',
     viewsSrc: 'app/views/**/*.html',
     viewsDest: 'build/views/'
-    // src: 'app/views/**/*.html',
+    // src: 'app/views/**/*.html'
     // dest: 'build/views/'
   },
 
