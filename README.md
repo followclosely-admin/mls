@@ -1,5 +1,7 @@
 # Pattern Guide &amp; Style Sheet
 
+Made for ![FollowClosely](https://followclosely.com)
+
 ## Quickstart
 
 - `gulp dev` kicks off browserSync &amp; watches files for changes
