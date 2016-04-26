@@ -18,7 +18,6 @@ export default {
   scripts: {
     src: 'app/assets/js/**/*.js',
     dest: 'build/assets/js',
-    // test: './test/**/*.js',
     gulp: 'gulp/**/*.js'
   },
 
