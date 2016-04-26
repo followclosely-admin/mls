@@ -1,6 +1,6 @@
 # Pattern Guide &amp; Style Sheet
 
-Made for ![FollowClosely](https://followclosely.com)
+Made for [FollowClosely](https://followclosely.com)
 
 ## Quickstart
 
