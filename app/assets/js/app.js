@@ -9,15 +9,9 @@ angular.module('patternApp', ['ngRoute'])
     })
     .when('/components', {
       templateUrl: 'views/components.html',
-      controller: 'MainController'
+      controller: 'ComponentsController'
   });
 
   $locationProvider.html5Mode(true);
 
 }]);
-
-angular.module('patternApp')
-.controller('MainController', function($scope){
-  $scope.message = 'MainController loaded';
-  console.log($scope.message);
-});
