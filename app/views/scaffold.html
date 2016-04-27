@@ -1,0 +1,78 @@
+<div class="container-fluid">
+
+
+<div class="nav row" id="nav">
+  <navlinks></navlinks>
+</div>
+
+<div class="nav-mobile row" id="nav-mobile"
+style="display: none">
+  <navlinks></navlinks>
+  <button class="menu-toggle"> Menu </button>
+</div>
+
+<div class="hero row" id="hero">
+  <h1>{{ title }}</h1>
+  <div class="hero-wrapper" ng-repeat="service in services">
+    <a class="btn btn-default" href="#">
+      {{ service }}
+    </a>
+  </div>
+  
+  <div class="hero-cta row" id="hero-cta">
+    <form>
+      <input placeholder="Enter your email address">
+      <button> Submit </button>
+    </form>
+  </div>
+</div>
+
+<div class="banner row" id="banner">
+  <i class="{{ fa-fa-dynamic-icon }}"></i>
+  <p class="col-xs-6">10 Tips for a Perfect Pool</p>
+  <button class="col-xs-6"> Download </button>
+</div>
+
+<div class="modal" id="modal" style="display: none">
+  <!-- create partial form.html -->
+  <form>
+    <input placeholder="Your Name">
+    <input placeholder="Email Address">
+    <input placeholder="Phone Number">
+  </form>
+</div>
+
+
+<div class="slides row" id="slides">
+  <div class="slide row" ng-repeat="slide in slides">
+    <img class="col-xs-4">
+    <img class="col-xs-4">
+    <img class="col-xs-4">
+    <button></button>
+  </div>
+</div>
+
+<div class="resources row" id="resources">
+
+</div>
+
+<div class="reviews row" id="reviews">
+
+</div>
+
+<div class="cta row" id="cta">
+  <!-- create partial form.html -->
+  <form>
+    <input placeholder="Your Name">
+    <input placeholder="Email Address">
+    <input placeholder="Phone Number">
+  </form>
+</div>
+
+<div class="footer row" id="hero">
+  <navlinks></navlinks>
+  <p class="copyright"> © Sun Ray Pools 2016 </p>
+</div>
+
+
+</div><!-- container-fluid -->

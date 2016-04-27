@@ -15,5 +15,6 @@ gulp.task('watch', ['browserSync'], function() {
   gulp.watch(config.fonts.src,   ['fonts']);
   gulp.watch(config.html.viewsSrc, ['htmlViews']);
   gulp.watch(config.html.src, ['html']);
+  gulp.watch(config.lib.src, ['lib']);
 
 });

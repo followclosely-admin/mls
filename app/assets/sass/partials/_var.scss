@@ -27,38 +27,45 @@ $displayBoldItal: 'Tungsten-BoldItalic', sans-serif;
 /******** COLORS ********/
 /************************/
 
-$black: #212425;
-$blue: #5ba4e5;
-$deepBlue: #2f8cde;
-$green: #9fbb58;
-$yellow: #ffe600;
-$beige: #e9e8dd;
+$blue: #0074e4;
+
+$blueTrans: rgba(0,116,228,.75);
+$darkBlueTrans: rgba(24,52,93,.85);
+$greenTrans: rgba(116,192,5,.75);
+
+
+// $black: #212425;
+// $blue: #5ba4e5;
+// $deepBlue: #2f8cde;
+// $green: #9fbb58;
+// $yellow: #ffe600;
+// $beige: #e9e8dd;
 
 $slate: #282d31;
-$color-1: #282d31;
-$neutral: #404041;
-$color-2: #404041;
+// $color-1: #282d31;
+// $neutral: #404041;
+// $color-2: #404041;
 
 $blueish: #718087;
-$greenish: #a6b4b6;
-$whitish: #eceded;
-$white: #ffffff;
+// $greenish: #a6b4b6;
+// $whitish: #eceded;
+// $white: #ffffff;
 
-$red: #e25440;
-$orange: #F2A925;
-$grey: #718087;
-$midGrey: #7d878a;
-$lightGrey: #e2edf2;
+// $red: #e25440;
+// $orange: #F2A925;
+// $grey: #718087;
+// $midGrey: #7d878a;
+// $lightGrey: #e2edf2;
 
-$brown: #aaa9a2;
-$midBrown: #c0bfb6;
-$lightBrown: #edece4;
-$darkGrey: #242628;
-$inputFocus: #226492;
+// $brown: #aaa9a2;
+// $midBrown: #c0bfb6;
+// $lightBrown: #edece4;
+// $darkGrey: #242628;
+// $inputFocus: #226492;
 $pinkButton: #D01040;
-$purple: #333c4e;
-$offWhite: #F3F4F8;
-$color-3: #F3F4F8;
+// $purple: #333c4e;
+// $offWhite: #F3F4F8;
+// $color-3: #F3F4F8;
 
 
 // FontAwesome

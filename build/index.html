@@ -10,30 +10,41 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Stylesheets -->
-  <link rel="stylesheet" href="assets/css/prism.css">
+  <!-- <link rel="stylesheet" href="assets/css/prism.css"> -->
+  <!-- <link rel="stylesheet" href="assets/css/animate.min.css"> -->
+
+  
+  <link rel="stylesheet" href="assets/lib/bootstrap/css/bootstrap.css">
   <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-  <link rel="stylesheet" href="assets/css/animate.min.css">
   <link rel="stylesheet" href="assets/css/main.css">
 
-  <script src="assets/js/lib/jquery.min.js"></script>
+  <script src="assets/lib/jquery/jquery-1.12.3.js"></script>
   <script src="assets/js/lib/angular.js"></script>  
   <script src="assets/js/lib/angular-animate.js"></script>
   <script src="assets/js/lib/angular-route.js"></script>
   <script src="assets/js/lib/angular-resource.js"></script>
 
-  <script src="assets/js/app.js"></script>  
+  <!-- app -->
+  <script src="assets/js/app.js"></script>
+
+  <!-- controllers -->
   <script src="assets/js/controllers/MainController.js"></script>
   <script src="assets/js/controllers/ComponentsController.js"></script>
- 
-  <!--   
-  <script src="js/directives/component.js"></script>
-  -->
+  <script src="assets/js/controllers/ScaffoldController.js"></script>
+
+  <!-- directives -->
+  <script src="assets/js/directives/navlinks.directive.js"></script>
+
+  <!-- services -->
+
 
 </head>
 <body ng-app="patternApp">
 
   <div ng-view></div>
 
+
+  <script src="assets/lib/bootstrap/js/bootstrap.js"></script>
   <script src="assets/js/lib/superfish.min.js"></script>
   <script src="assets/js/lib/hoverIntent.js"></script>
   <script src="assets/js/lib/jquery.cycle2.js"></script>

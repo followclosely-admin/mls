@@ -30,6 +30,11 @@ export default {
     // dest: 'build/views/'
   },
 
+  lib: {
+    src: 'app/assets/lib/**/*',
+    dest: 'build/assets/lib'
+  },
+
   images: {
     src: 'app/assets/images/**/*',
     dest: 'build/assets/images'

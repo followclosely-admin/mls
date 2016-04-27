@@ -10,6 +10,10 @@ angular.module('patternApp', ['ngRoute'])
     .when('/components', {
       templateUrl: 'views/components.html',
       controller: 'ComponentsController'
+  })
+    .when('/scaffold', {
+      templateUrl: 'views/scaffold.html',
+      controller: 'ScaffoldController'
   });
 
   $locationProvider.html5Mode(true);
