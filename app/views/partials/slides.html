@@ -1,0 +1,15 @@
+<div class="slides row" id="slides">
+  <div class="slide row">
+	  <ul>
+			<li class="slide col-xs-4" ng-repeat="slide in slides">
+				<img ng-src="assets/images/{{ slide.imgSrc }}">
+				<div class="icon">
+					<i class="fa fa-heart-o"></i>
+				</div>
+				<div class="caption">
+					<span>{{ slide.imgAttr | currency:undefined:0 }}</span>
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>
